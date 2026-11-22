@@ -14,9 +14,7 @@ Full Stack Developer • Computer Science Student
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Experiences;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpan61932&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
-</p>
+
 
 # 💫 About Me:
 👋 Hi, I'm Arpan Maji<br><br>💻 Full Stack Web Developer focused on building scalable, responsive, and user-friendly web applications.<br><br>🚀 Skilled in React, JavaScript, Node.js, Express.js, MongoDB, and modern web technologies.<br><br>🛠️ I enjoy turning ideas into functional products and building clean, efficient, and engaging web experiences.<br><br>🌱 Currently expanding my skills through real-world projects and continuous learning.<br><br>🤝 Open to collaboration, interesting projects, and new opportunities.
